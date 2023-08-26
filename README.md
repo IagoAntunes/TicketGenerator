@@ -36,15 +36,8 @@
 ## 🎨 Layout
 
 <a>
-  <img src="https://github.com/IagoAntunes/PlantManager/blob/master/assets/github/foto_1.png" min-width="500px" max-width="500px" width="250px" alt="SplashScreen">
-  <img src="https://github.com/IagoAntunes/PlantManager/blob/master/assets/github/foto_2.png" min-width="500px" max-width="500px" width="250px" alt="SplashScreen">
-  <img src="https://github.com/IagoAntunes/PlantManager/blob/master/assets/github/foto_3.png" min-width="500px" max-width="500px" width="250px" alt="SplashScreen">
-  <img src="https://github.com/IagoAntunes/PlantManager/blob/master/assets/github/foto_4.png" min-width="500px" max-width="500px" width="250px" alt="SplashScreen">
-  <img src="https://github.com/IagoAntunes/PlantManager/blob/master/assets/github/foto_5.png" min-width="500px" max-width="500px" width="250px" alt="SplashScreen">
-  <img src="https://github.com/IagoAntunes/PlantManager/blob/master/assets/github/foto_6.png" min-width="500px" max-width="500px" width="250px" alt="SplashScreen">
-  <img src="https://github.com/IagoAntunes/PlantManager/blob/master/assets/github/foto_7.png" min-width="500px" max-width="500px" width="250px" alt="SplashScreen">
-  <img src="https://github.com/IagoAntunes/PlantManager/blob/master/assets/github/foto_8.png" min-width="500px" max-width="500px" width="250px" alt="SplashScreen">
-  <img src="https://github.com/IagoAntunes/PlantManager/blob/master/assets/github/foto_9.png" min-width="500px" max-width="500px" width="250px" alt="SplashScreen">
+  <img src="https://github.com/IagoAntunes/TicketGenerator/blob/main/assets/github/img_IdleTicket.png" min-width="500px" max-width="500px" width="800px" alt="SplashScreen">
+  <img src="https://github.com/IagoAntunes/TicketGenerator/blob/main/assets/github/img_succesTicket.png" min-width="500px" max-width="500px" width="800px" alt="SplashScreen">
 </a>
 
 ## 🛠 Technologies
