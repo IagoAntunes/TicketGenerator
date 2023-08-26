@@ -6,7 +6,7 @@ import 'package:generateticket/core/states/ticket_state.dart';
 import 'package:generateticket/features/home/domain/repositories/home_repositories.dart';
 
 class HomeController extends GetxController {
-  IHomeRepositories repository;
+  IHomeRepository repository;
 
   TextEditingController userController = TextEditingController();
   Rx<UserModel?> user = Rx<UserModel?>(null);
@@ -15,7 +15,7 @@ class HomeController extends GetxController {
     required this.repository,
   });
 
-  void buttonClicked() async {
+  Future<void> getProfile() async {
     state.value = LoadingTicketState();
     await repository.getProfile(userController.text).then((value) {
       value.fold((l) {

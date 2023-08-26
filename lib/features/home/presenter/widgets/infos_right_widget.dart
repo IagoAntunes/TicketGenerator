@@ -27,7 +27,7 @@ class InfosRight extends StatelessWidget {
           crossAxisAlignment: CrossAxisAlignment.center,
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            Container(
+            SizedBox(
               width: constraints2.maxWidth * 0.6,
               child: AspectRatio(
                 aspectRatio: 1.0,

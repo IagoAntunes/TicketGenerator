@@ -4,7 +4,7 @@ import 'package:generateticket/core/models/user_model.dart';
 import 'package:generateticket/features/home/datasource/home_datasource.dart';
 import 'package:generateticket/features/home/domain/repositories/home_repositories.dart';
 
-class HomeRepositorieImpl extends IHomeRepositories {
+class HomeRepositorieImpl extends IHomeRepository {
   IHomeDatasource data;
   HomeRepositorieImpl({
     required this.data,

@@ -3,7 +3,7 @@ import 'package:generateticket/core/styles/colors.dart';
 import 'package:generateticket/features/home/datasource/home_datasource.dart';
 import 'package:generateticket/features/home/datasource/home_repositorie_impl.dart';
 import 'package:generateticket/features/home/presenter/controller/home_controller.dart';
-
+import 'package:http/http.dart' as http;
 import '../widgets/form_left_widget.dart';
 import '../widgets/infos_right_widget.dart';
 
@@ -11,7 +11,7 @@ class HomePage extends StatelessWidget {
   HomePage({super.key});
   final HomeController controller = HomeController(
     repository: HomeRepositorieImpl(
-      data: HomeDatasource(),
+      data: HomeDatasource(httpClient: http.Client()),
     ),
   );
   @override

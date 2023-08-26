@@ -81,7 +81,7 @@ class FormLeft extends StatelessWidget {
                     ),
                   ),
                 ),
-                SizedBox(height: 6),
+                const SizedBox(height: 6),
                 Visibility(
                   visible:
                       controller.state.value.runtimeType == FailureTicketState,
@@ -130,7 +130,7 @@ class FormLeft extends StatelessWidget {
             return ElevatedButton(
               onPressed: () {
                 if (controller.state.value.runtimeType != LoadingTicketState) {
-                  controller.buttonClicked();
+                  controller.getProfile();
                 }
               },
               style: ElevatedButton.styleFrom(
