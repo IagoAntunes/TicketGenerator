@@ -1,5 +1,3 @@
-import 'dart:convert';
-
 class UserModel {
   String name;
   String avatarUrl;
