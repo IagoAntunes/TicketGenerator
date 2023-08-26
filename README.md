@@ -27,7 +27,7 @@
 
 - Flutter,
 - Mobx,
-- Teste Unitários,
+- Unitary tests,
 - Http,
 - CleanArch
 
@@ -51,14 +51,14 @@ The following tools were used in building the project:
 -   **[VisualStudioCode](https://code.visualstudio.com/)**
 
 ---
-## 🦸 Autor
+## 🦸 Author
 
 [![Linkedin Badge](https://img.shields.io/badge/-IagoFerreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iagoaferreira/)](https://www.linkedin.com/in/iagoaferreira/) [![Gmail Badge](https://img.shields.io/badge/-iagoantunes.f@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iagoantunes.f@gmail.com)](mailto:iagoantunes.f@gmail.com)
 
 ---
 
-## 📝 Licença
+## 📝 License
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
 
-Feito com ❤️ por Iago Ferreira 👋🏽 [Entre em contato!](https://www.linkedin.com/in/iagoaferreira/)
+Made by Iago Ferreira👋🏽 [Entre em contato!](https://www.linkedin.com/in/iagoaferreira/)
