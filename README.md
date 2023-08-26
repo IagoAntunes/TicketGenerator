@@ -19,11 +19,11 @@
 
 ## 💻 About the project
 
-:world_map: TicketGenerator  - O desafio é criar uma página que gera tickets personalizados através de um perfil público do GitHub.
+:world_map: TicketGenerator  - The challenge is to create a page that generates personalized tickets through a GitHub public profile.
 
 ---
 
-## ⚙️ Functionalities
+## ⚙️ Tools
 
 - Flutter,
 - Mobx,
