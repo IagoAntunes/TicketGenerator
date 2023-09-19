@@ -19,7 +19,7 @@
 
 ## 💻 About the project
 
-:world_map: TicketGenerator  - The challenge is to create a page that generates personalized tickets through a GitHub public profile.
+:world_map: TicketGenerator  - The challenge is to create a page that generates personalized tickets through a GitHub public profile..
 
 ---
 
